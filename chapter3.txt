@@ -1,0 +1,2 @@
+
+I had the same problem at first when I started using Git Bash in my Windows computer. I wanted to open a folder on my Desktop.
